@@ -1,4 +1,4 @@
-# React + Vite - In-Browser Code Editor
+# In-Browser Code Editor
 
 An interactive in-browser code editor that allows you to write and execute your code directly in the browser. Built with React and Vite, this tool offers a fast, efficient, and seamless development experience.
 
